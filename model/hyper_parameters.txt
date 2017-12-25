@@ -1,0 +1,7 @@
+batch_size: 5
+learning_rate: 0.0001
+num_epochs: 20
+rnn_num_units: 256
+keep_prob: 1.0
+rnn_cell_type: BasicLSTM
+context_width 3
